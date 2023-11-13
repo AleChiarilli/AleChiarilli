@@ -18,7 +18,7 @@ const AleChiarilli = {
 - 👀 I’m interested in dynamic projects focused on making an impact on peoples life and our beautiful planet called Earth.
 - 🌱 I’m currently learning TypeScript and coursing Google UX/UI certificates
 - :telescope: I'm able to contribute to frontend and backend for building web applications.
-- ⚡ On my free time I love solving programming challenges and exercices.
+- ⚡ On my free time I love to solve programming challenges and exercices.
 - 📫 You can reach me trough this next buttons:
 
   <div id="badges">
