@@ -14,10 +14,10 @@ const AleChiarilli = {
 ```
 
 ---
-- :star: I'm a Full stack developer
+- :star: I'm a Frontend developer from Spain
 - 👀 I’m interested in dynamic projects focused on making an impact on peoples life and our beautiful planet called Earth.
-- 🌱 I’m currently learning TypeScript and coursing Google UX/UI certificates
-- :telescope: I'm able to contribute to frontend and backend for building web applications.
+- 🌱 I’m currently learning TypeScript and coursing IBM Professional Full Stack Certificate.
+- :telescope: I'm able to contribute to frontend for building web applications.
 - ⚡ On my free time I love to solve programming challenges and exercices.
 - 📫 You can reach me trough this next buttons:
 
